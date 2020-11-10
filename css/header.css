@@ -132,7 +132,9 @@
     .menu {
       display: none;
     }
-    
+    .header{
+        min-height: 50rem;
+    }
   }
 
 /* show mobile */

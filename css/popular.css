@@ -72,5 +72,8 @@
       width: 100%;
       margin-bottom: 2.5rem;
   }
+  .about__item>img{
+      width: 100%;
+  }
 }
 
